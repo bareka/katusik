@@ -1,1 +1,1 @@
-farewell
+kill
